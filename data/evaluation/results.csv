@@ -1,0 +1,6 @@
+ID,Headline (Ground Truth),Protagonists (Ground Truth),Headline (Prediction),Protagonists (Prediction),Headline Similarity (%),Protagonists Similarity (%)
+7_tage,Planen sie ein gemeinsames Weihnachtsfest?,"Meghan, Kate",Planen sie ein gemeinsames Weihnachtsfest?,"Meghan, Kate",100,100
+das_neue_blatt,Scheidungskrieg!,"Stefan Mross, Anna-Carina",Scheidungskrieg!,"Stefan Mross, Anna-Carina",100,100
+freizeitwoche,Traurige Baby-Nachricht!,Beatrice Egli,Eisige Abfuhr für Harry!,"König Charles, Prinz Harry",33,26
+neue_post,Gefangen in der Ehe-Hölle!,Prinz Harry,Gefangen in der Ehe-Hölle!,"Prinz Harry, Meghan Markle",100,59
+woche_der_frau,Trauriger Geburtstag!,Angela Merkel,Trauriger Geburtstag,Angela Merkel,98,100
