@@ -1,5 +1,3 @@
-# INPUT_PROCESSOR.PY:
-
 import os
 import logging
 

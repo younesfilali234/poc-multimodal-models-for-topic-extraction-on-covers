@@ -1,5 +1,3 @@
-# DATABASE_HANDLER.PY:
-
 import logging
 import json
 import traceback

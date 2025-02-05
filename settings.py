@@ -1,5 +1,3 @@
-# SETTINGS.PY:
-
 MODEL_NAME = "llama3.2-vision"
 SEED = 48
 

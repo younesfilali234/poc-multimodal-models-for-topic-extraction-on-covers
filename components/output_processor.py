@@ -1,5 +1,3 @@
-# OUTPUT_PROCESSOR.PY:
-
 import json
 import logging
 
