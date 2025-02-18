@@ -1,6 +1,6 @@
 # Prototyp zur automatisierten Themenerfassung von Zeitschriftentitelseiten mittels multimodaler Modelle
 
-Dieses Repository wurde wurde im Rahmen einer IU-Hausarbeit im Modul **"Programmieren mit Python"** erstellt.  
+Dieses Repository wurde im Rahmen einer IU-Hausarbeit im Modul **"Programmieren mit Python"** erstellt.  
 
 ---
 
